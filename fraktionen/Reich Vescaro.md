@@ -8,7 +8,7 @@ zuletzt-aktualisiert: 2026-10-07
 
 # Reich Vescaro
 
-> Ein kleines, mediterranes Königreich direkt an der Küste der Zerrissenen See – Rival Lantaniens, der die See als inoffiziellen Teil seines eigenen Territoriums betrachtet.
+> Ein kleines, mediterranes Königreich direkt an der Küste der Zerrissenen See – Rival Lantaniens, der die See als inoffiziellen Teil seines eigenen Territosiums betrachtet.
 
 ## Details
 
@@ -21,7 +21,7 @@ zuletzt-aktualisiert: 2026-10-07
 - Die Gründung lantanischer Kolonien quasi „direkt vor der Haustür" Vescaros wurde als **dreister Akt und potenzielle Bedrohung** verstanden.
 - Vescaro beklagte den Bau lantanischer Forts und Strukturen.
 - Nach dem Motto „Wenn die das haben wollen, wollen wir es auch" errichtete Vescaro ebenfalls **einige Kolonien**.
-- Es herrscht **kein direkter Krieg** (v. a. weil Vescaro weiß, dass es Lantanien unterlegen wäre), sehr wohl aber eine **heftige Rivalität** → siehe [[Rivalität Lantanien Vescaro]].
+- Es herrscht **kein direkter Krieg** (v. a. weil Vescaro weiß, dass es Lantanien unterlegen wäre), sehr wohl aber eine **heftige Rivalität** → siehe [[Rivalität Lantanien–Vescaro]].
 
 ### Verhältnis zur Piraterie
 - Vescaro ist **kein Freund der Piraterie**, aber unter Umständen **geneigter, mit Freibeutern zusammenzuarbeiten**, wenn es notwendig ist.
@@ -30,17 +30,17 @@ zuletzt-aktualisiert: 2026-10-07
 ### Gesinnung
 - **Noch unklar** (offen).
 
-## Offene Punkte
+# Offene Punkte
 
 - Gesinnung, Kolonien, Anführer, Geheimdienste/Institutionen.
 
-## Verbindungen
+# # Verbindungen
 
 - [[Die Zerrissene See]]
 - [[Lantanien]]
-- [[Piraterie In Der Zerrissenen See]]
-- [[Rivalität Lantanien Vescaro]]
+- [[Piraterie In Der Zerrissenenen See]]
+- [[Rivalität Lantanien–Vescaro]]
 
-## Quellen
+# # Quellen
 
 - Alex, Chat 2026-10-07 (Fraktionsvorstellung)

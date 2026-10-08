@@ -4,15 +4,16 @@ kategorie: Ereignis
 zeit: laufend (Kolonialzeitalter der Zerrissenen See)
 tags: [konflikt, kolonialismus, politik]
 status: kanon
-zuletzt-aktualisiert: 2026-10-07
+zuletzt-aktualisiert: 2026-10-08
 ---
+
 # Rivalität Lantanien–Vescaro
 
 > Die heftige, aber nichtoffene Rivalität zwischen den beiden Kolonialmächten der Zerrissenen See.
 
 ## Details
 
-- Ausgangspunkt: [[Lantanien]] gründete Kolonien in der [[Die Zerrissene See|Zerrissenen See]] quasi „direkt vor der Haustür" des [[Reich Vescaro|Reichs Vescaro]].
+- Ausgangspunkt: [[Lantanien]] gründete Kolonien in der [[Die Zerrissene See|Zerrissenen Se]]T quasi „direkt vor der Haustür" des [[Reich Vescaro|Reichs Vescaro]].
 - Vescaro verstand dies als **dreisten Akt und potenzielle Bedrohung**, beklagte u. a. den Bau lantanischer Forts und erhob selbst Anspruch auf das Besiedlungsrecht – die See galt Vescaro als inoffizieller Teil des eigenen Territoriums.
 - Vescaro errichtete daraufhin eigene Kolonien.
 - **Kein direkter Krieg** – vor allem weil Vescaro weiß, dass es Lantanien unterlegen wäre. Stattdessen: **heftige Rivalität**.
@@ -28,3 +29,4 @@ zuletzt-aktualisiert: 2026-10-07
 ## Quellen
 
 - Alex, Chat 2026-10-07 (Fraktionsvorstellung)
+- Alex, Chat 2026-10-08 (Titel „Rivalität Lantanien–Vescaro" mit Gedankenstrich bestätigt)
