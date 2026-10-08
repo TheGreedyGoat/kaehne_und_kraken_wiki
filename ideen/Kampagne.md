@@ -33,7 +33,7 @@ zuletzt-aktualisiert: 2026-10-07
 - **[[Orden des Weaves]] ↔ Piratenmagier:** Registrierungsgebot macht jeden unregistrierten Magier an Bord zum Geächteten; Orden könnte Magier-Jäger entsenden.
 - **Handelskompanien ↔ Sklavenhändler:** Kompanie verdient heimlich am verbotenen Handel; Beweise = enormes Druckmittel (oder Todesurteil für die Finder).
 - **Freiheitskämpfer ↔ Sklavenhänder:** Offene, kompromisslose Feindschaft – moralische Kompassnadel und gemeinsames Feindbild sogar rivalisierender Piraten.
-- **Lantanien intern:** Navy (Ordnung) vs. Kolonialgouverneure (Profit) vs. Mutterland (Ressourcen) als Konglomerat widersprüchlicher Interessen; ein Kaperkommissar (ehemaliger Freibeuter, bietet Amnestien) als personales Gesicht.
+- **Lantanien intern:** Details stehen jetzt als eigene Ideen-Sektion im Artikel [[Lantanien]].
 
 ## Fehlende Fraktionen (Ergänzungsvorschläge)
 

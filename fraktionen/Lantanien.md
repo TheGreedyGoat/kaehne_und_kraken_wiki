@@ -24,7 +24,7 @@ zuletzt-aktualisiert: 2026-10-07
 - Kolonialmacht mit Stützpunkten/Forts in der Zerrissenen See (Details offen).
 - Anführer und innere Struktur noch nicht konkretisiert.
 
-### Verboܮdete / Rivalitäten
+### Verbündete / Rivalitäten
 - **Heftige Rivalität mit [[Reich Vescaro]]** (kein offener Krieg, da Vescaro sich unterlegen weiß) → siehe auch [[Rivalität Lantanien–Vescaro]].
 - Arbeitet mit dem [[Orden des Weaves]] zusammen: In Lantanien ist das Registrierungsgebot für Magienutzende durchgesetzt.
 - Der Pirat [[Capt'n Griphook]] hasst die Lantaner abgrundtief.
@@ -34,30 +34,29 @@ zuletzt-aktualisiert: 2026-10-07
 - Kolonialpräsenz in der Zerrissenen See.
 
 ### Gesinnung
-- **Lawful neutral bis lawful evil** (laut Alex: Gesinnungen sinde grobe Einordnungswerzeuge, keine feste Mechanik).
+- **Lawful neutral bis lawful evil** (laut Alex: Gesinnungen sind grobe Einordnungswerkzeuge, keine feste Mechanik).
 
-# Offene Punkte
+## Offene Punkte
 
-- Kolonien, Gouverneur, Navy-Struktur, konkretes Verhältnis zu Piratenfraktionen.
+- Kolonien, Gouverneure, Navy-Struktur, konkretes Verhältnis zu Piratenfraktionen.
 
 ## Verbindungen
 
-- [[Die Zerrissenen See]]
+- [[Die Zerrissene See]]
 - [[Reich Vescaro]]
 - [[Orden des Weaves]]
 - [[Piraterie In Der Zerrissenen See]]
 - [[Capt'n Griphook]] (hasst die Lantaner abgrundtief)
 
-# # Quellen
+## Quellen
 
 - Alex, Chat 2026-10-07 (Fraktionsvorstellung)
 
-## IdeenȐYٛݙ[˒YY[ȞݜȚ[ۙ\ٛȔݜݚݝ\ȝ[و݈ݚ\ݙ[Ț[ۙ\ژ[ȓ[ݘ[ڙ[܋ۛȐ[^[H̌͋LLLșЯșY\ٛȐ\ݚZٛܙZYٙ٘ٛȸ$Ȋʛۘڈٚ[Ȓ؛ۛʊˈ]Z[ȝٜٙ[ș\ܝ\ؚ[^	Ȑ]\ܘYٛȝؚٜ[ٛXڋˈ
-ʑٚ\ܜݛوڙ\ܜЯڛXڙ\Ȓ[ݙ\ٜܙ[Ίʈ؝ވ
-ܙݛيH܋ȒۛۚX[۝]ٜۙ]\و
-ۙڝۜܝ[\Y\ؘ\ʈ܋ȓ]]\ۘ[و
-ٜܛݜؙ[ٛ0يKȐٚ\ܚY[RۚΈZ[ȑ۝]ٜۙ]\Ȝؘ۝Y\݈YH؝ވ[H]Yݜؙș\Ȗ֒[ٙ[ڛۜ[ڙ[חKH
-ʒ؜\ڛۛZ\ܘ\Ίʈ\؝[ڰ陙\ȝ[وZ[X[YٜȑܙZXݝ\Ș[Ȝ\ܛۘ[\ȑٜژڝ[ݘ[ڙ[܎Șڙ]]\؝[Ȑ[[ٜݚY[Ș[ȸdȑ[[[XKRۚ܈ЯȔܚY[\ːܙ]܋H
-ʓٙڞڙ[HYًٛZ[[Xڙ\ȓ\ݙ\Ίʈڛ]ٜٚH\݈ٙڞڙ[ٜ؛ݙ[ˈXٜȑ۝]ٜۙ]\ȝ[وۛ\[ڙ[Ț[[Ȝژڈژڝ\؛ȸdȐٝٚ\وڛșZ[ș[ۜۙ\ȑݘڛZ][
-ٙ\șZ[ȕٙ\ݜݙZ[ЯșYHڛٙ\ʋH
-ʓXYڙ\˒َؙʊȑ\Ȕٙڜݜڙ\ݛٜٙX۝\Ȗ֓ܙ[ș\ȕ٘]ٜߓܙ[ș\ȕ٘]ٜחHXXڝ[ܙYڜݜڙ\ݙHXYڙ\Ș[ȐۜوۛȔ\؝[ܘښYٙ[Ȟ݈ٰ谨Xڝ][ȸ$ȖЯٜݛٙȞݚ\ؚ[ȓ[ݘ[ڙ[ˈܙ[ȝ[و\؝[ؙ\؝ݛٙ[˂
+## Ideen
+
+> Agenten-Ideen zur inneren Struktur und zu Zwisten innerhalb Lantaniens, von Alex am 2026-10-07 für diesen Artikel freigegeben – **noch kein Kanon**, Details werden erst durch Alex' Aussagen verbindlich.
+
+- **Dreisprung widersprüchlicher Interessen:** Navy (Ordnung) vs. Kolonialgouverneure (Profit, korrumpierbar) vs. Mutterland (Ressourcenflüsse). Beispiel-Hook: Ein Gouverneur sabotiert die Navy im Auftrag der [[Handelskompanien]].
+- **Kaperkommissar:** Piratenjäger und ehemaliger Freibeuter als personales Gesicht Lantaniens; bietet Piraten Amnestien an → Dilemma-Hooks für Spieler-Crews.
+- **Offizielle Tugend, heimliches Laster:** Sklaverei ist offiziell verboten, aber Gouverneure und Kompanien halten sich nicht daran → Beweise sind ein enormes Druckmittel (oder ein Todesurteil für die Finder).
+- **Magier-Jagd:** Das Registrierungsgebot des [[Orden des Weaves|Ordens des Weaves]] macht unregistrierte Magier an Bord von Piratenschiffen zu Geächteten – Zündstoff zwischen Lantanien, Orden und Piratenbesatzungen.
