@@ -11,6 +11,6 @@ description: "Chronologie der D&D-Welt: Ereignisse der Vorgeschichte und der lau
 ## Ereignisse
 
 1. [[Vergessene Zivilisation]] – vor unzähligen Jahrtausenden (Vorgeschichte)
-2. [[Rivalität Lantanien–Vescaro]] – laufend (Kolonialzeitalter der Zerrissenen See)
+2. [[Rivalität Lantanien Vescaro]] – laufend (Kolonialzeitalter der Zerrissenen See)
 
 - Neue Ereignisse automatisch in die Liste einsortieren, betroffene Artikel verlinken und nur auf existierende oder gerade erstellte Artikel verlinken (Schreibweise exakt wie der Zielartikel-Titel).

@@ -25,7 +25,7 @@ zuletzt-aktualisiert: 2026-10-07
 - Anführer und innere Struktur noch nicht konkretisiert.
 
 ### Verbündete / Rivalitäten
-- **Heftige Rivalität mit [[Reich Vescaro]]** (kein offener Krieg, da Vescaro sich unterlegen weiß) → siehe auch [[Rivalität Lantanien–Vescaro]].
+- **Heftige Rivalität mit [[Reich Vescaro]]** (kein offener Krieg, da Vescaro sich unterlegen weiß) → siehe auch [[Rivalität Lantanien Vescaro]].
 - Arbeitet mit dem [[Orden des Weaves]] zusammen: In Lantanien ist das Registrierungsgebot für Magienutzende durchgesetzt.
 - Der Pirat [[Capt'n Griphook]] hasst die Lantaner abgrundtief.
 
@@ -51,3 +51,12 @@ zuletzt-aktualisiert: 2026-10-07
 ## Quellen
 
 - Alex, Chat 2026-10-07 (Fraktionsvorstellung)
+
+## Ideen
+
+> Agenten-Ideen zur inneren Struktur und zu Zwisten innerhalb Lantaniens, von Alex am 2026-10-07 für diesen Artikel freigegeben – **noch kein Kanon**, Details werden erst durch Alex' Aussagen verbindlich.
+
+- **Dreisprung widersprüchlicher Interessen:** Navy (Ordnung) vs. Kolonialgouverneure (Profit, korrumpierbar) vs. Mutterland (Ressourcenflüsse). Beispiel-Hook: Ein Gouverneur sabotiert die Navy im Auftrag der [[Handelskompanien]].
+- **Kaperkommissar:** Piratenjäger und ehemaliger Freibeuter als personales Gesicht Lantaniens; bietet Piraten Amnestien an → Dilemma-Hooks für Spieler-Crews.
+- **Offizielle Tugend, heimliches Laster:** Sklaverei ist offiziell verboten, aber Gouverneure und Kompanien halten sich nicht daran → Beweise sind ein enormes Druckmittel (oder ein Todesurteil für die Finder).
+- **Magier-Jagd:** Das Registrierungsgebot des [[Orden des Weaves|Ordens des Weaves]] macht unregistrierte Magier an Bord von Piratenschiffen zu Geächteten – Zündstoff zwischen Lantanien, Orden und Piratenbesatzungen.

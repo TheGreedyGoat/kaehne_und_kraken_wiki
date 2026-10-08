@@ -27,7 +27,7 @@ zuletzt-aktualisiert: 2026-10-07
 
 ### Politische Präsenz
 - [[Lantanien]] ist die **Haupt-Kolonialmacht** der Zerrissenen See.
-- [[Reich Vescaro]] erhebt Anspruch auf das Besiedlungsrecht und hat ebenfalls Kolonien gegründet (siehe [[Rivalität Lantanien–Vescaro]]).
+- [[Reich Vescaro]] erhebt Anspruch auf das Besiedlungsrecht und hat ebenfalls Kolonien gegründet (siehe [[Rivalität Lantanien Vescaro]]).
 
 ## Verbindungen
 
