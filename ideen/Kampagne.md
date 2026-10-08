@@ -46,6 +46,9 @@ zuletzt-aktualisiert: 2026-10-07
 ## Ergänzungsideen zu bestehenden Fraktionen
 
 - **Forschergilde:** Hypothese als Grund für die Lage am Malstrom – z. B. dass der Malstrom kein Naturphänomen ist, sondern von der Vergessenen Zivilisation erzeugt/verursacht wurde (oder dass sie die Ursache des Zerreißens des Kontinents sucht).
+- **Forschergilde – mögliche Auflösung des Malstrom-Monopol-Widerspruchs (Lösungsideen von Alex, 2026-10-08, Kanon-Entscheidung noch offen):** Zwei Erklärungen, warum trotz offener Wissenskultur nur die Forschergilde sturmfeste Schiffe bauen kann (klärt den offenen Widerspruch W-001):
+  1. **Handwerk statt Buchwissen:** Das theoretische Wissen wird prinzipiell geteilt, reicht aber allein nicht – selbst mit den Bauplänen erfordern Teile der Schiffe außerordentliches Handwerksgeschick oder Ähnliches, das sich nicht in Buchform vermitteln lässt. Die Gilde ist im Prinzip bereit, jemandem diese Techniken beizubringen, aber das ist ein ungeheurer Aufwand.
+  2. **Heilige Materialien:** Der Bau benötigt ganz bestimmte Materialien, die von einigen Mitgliedern der Gilde gefördert/verarbeitet werden (z. B. ein ganz bestimmtes Erz, das die Tiefengnome kennen). Der Ort, wo dieses Erz liegt, bzw. dessen Verarbeitung ist der Kultur der Tiefengnome heilig – nicht jeder darf das.
 - **Diebesgilde:** Ein konkretes Gesicht als Fixer:in in der Zerrissenen See (z. B. Hafenschenken-Wirtin, die niemand je „die Gilde" nennen würde); Eskalationsstufe, wenn eine Partei zu bekannt wird und die Anonymität bröckelt.
 - **Handelskompanien:** Lantanischer Freibrief (East-India-Company-Modell) mit Handelsmonopol, eigenen Soldaten und quasi-staatlichem Status; heimlicher Auftraggeber für Piratenüberfälle auf Konkurrenten.
 
