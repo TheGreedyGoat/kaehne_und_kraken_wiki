@@ -47,7 +47,7 @@ zuletzt-aktualisiert: 2026-10-07
 - [[Capt'n Luckyfoot]] – Glückspilz unter den Kapitänen (bürgerlich: Jory Goldteich; Crew noch nicht ausgearbeitet)
 
 ### Gesinnung
-- Piratenfraktionen reichen von **chaotisch gut bis böse** (laut Alex: Gesinnungen sind grobe Einordnungswerkzeuge, keine feste Mechanik).
+- Piratenfraktionen reichen von **chaotisch gut bis böse**
 
 ## Offene Punkte
 

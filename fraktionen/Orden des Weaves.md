@@ -41,7 +41,7 @@ aliases:
 - **Rivalität mit der Forschergilde:** Der Orden hat ein Problem mit der offenen Wissenskultur der Forscher – jedes bisschen Wissen, das diese öffentlich verfügbar machen, nimmt ihm ein kleines Stück seiner Exklusivität. Er befürchtet, an Relevanz zu verlieren, weil man bei arkanen Fragen statt zu ihm auch einfach zur Forschergilde gehen könnte.
 
 ### Gesinnung
-- **Lawful neutral** (laut Alex: Gesinnungen sind grobe Einordnungswerkzeuge, keine feste Mechanik).
+- **Lawful neutral**
 
 ## Offene Punkte
 

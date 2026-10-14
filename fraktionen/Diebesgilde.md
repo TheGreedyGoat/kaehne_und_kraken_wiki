@@ -31,7 +31,7 @@ zuletzt-aktualisiert: 2026-10-07
 - Der Halbling [[Capt'n Luckyfoot]] hat eine **Spielhölle ruiniert, die ein Kunde der Gilde ist** (die „Spielhöllen-Fehde"). Die Gilde selbst hält sich in dieser Fehde neutral.
 
 ### Gesinnung
-- **Chaotic neutral bis chaotic good** (laut Alex: Gesinnungen sind grobe Einordnungswerkzeuge, keine feste Mechanik).
+- **Chaotic neutral bis chaotic good**
 
 ## Offene Punkte
 

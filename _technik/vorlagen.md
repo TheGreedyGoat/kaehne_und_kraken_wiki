@@ -4,6 +4,8 @@ Obsidian-kompatible Artikel-Vorlagen für das D&D-Welt-Wiki. Frontmatter immer v
 
 Dateiname = Artikel-Titel: jedes Wort groß geschrieben, Leerzeichen bleiben Leerzeichen (z. B. `Reich Vescaro.md`). Nicht-Wiki-Dateien (diese Vorlagen hier, `offene-widersprueche.md`, Session-Protokolle) verwenden Kleinschreibung mit Bindestrichen.
 
+Anführungszeichen im Artikeltext: „...\" (öffnend deutsches Anführungszeichen, schließend gerades `"`) – kein „...“.
+
 ## Allgemeiner Artikel
 
 ```markdown

@@ -34,7 +34,7 @@ zuletzt-aktualisiert: 2026-10-07
 - Kolonialpräsenz in der Zerrissenen See.
 
 ### Gesinnung
-- **Lawful neutral bis lawful evil** (laut Alex: Gesinnungen sind grobe Einordnungswerkzeuge, keine feste Mechanik).
+- **Lawful neutral bis lawful evil**
 
 ## Offene Punkte
 
