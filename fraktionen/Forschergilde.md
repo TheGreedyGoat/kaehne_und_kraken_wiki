@@ -3,7 +3,7 @@ titel: Forschergilde
 kategorie: Fraktion
 tags: [wissen, forschung, gnome, arbeitstitel]
 status: kanon
-zuletzt-aktualisiert: 2026-10-07
+zuletzt-aktualisiert: 2026-10-16
 ---
 
 # Forschergilde
@@ -22,6 +22,15 @@ zuletzt-aktualisiert: 2026-10-07
 - **Ursprung bei den Gnomen**, die auch heutzutage den Großteil der Mitglieder stellen.
 - Vertreter vieler anderer Völker sind ebenfalls zu finden.
 
+### Forschungsbasis am Malstrom
+- Die Forschergilde war **schon eine ganze Weile in der Zerrissenen See, bevor die ersten lantanischen Kolonien entstanden**.
+- Der Aufbruch zur Erforschung der Zerrissenen See fand **vor über 150 Jahren** statt.
+- Die Gnome sind **unglaublich geduldige und akribische Wesen** – sie forschen nicht, indem sie irgendwo hinfahren und drauflosforschen, sondern **eins nach dem anderen**. Deshalb haben sie die anderthalb Jahrhunderte damit verbracht, **ihre Forschungsbasis zu errichten**; mit der eigentlichen Forschung hat die Gilde, wenn überhaupt, **gerade erst begonnen**.
+- Die Basis ist mittlerweile eine **beeindruckende kleine Stadt**.
+- Sie liegt **deutlich näher am [[Der Malstrom|Malstrom]] als die anderen Kolonien** – gerade noch so weit, dass ein gewöhnliches Schiff mit fähiger Crew sie erreichen kann.
+- Die Stadt liegt **in einer Bucht, umgeben von Bergen, in erhöhter Position**.
+- Der **Hafen** liegt ein gutes Stück **über dem Meeresspiegel in einem künstlich angelegten Becken**; über **Schleusen** werden Schiffe nach oben transportiert. Nach unten führt eine **Rutsche/Schiene**, die dem Rand der Bucht folgend aufs offene Meer führt.
+
 ### Ressourcen & Einfluss
 - Der **Wissensstand** der Forschergilde ist größer als der jeder anderen Fraktion – nur im Fach **Arkana** hat der [[Orden des Weaves]] die Nase vorn; in allen anderen Disziplinen führt die Forschergilde.
 - **Hauptquartier in der Zerrissenen See:** Liegt **besonders nah am [[Der Malstrom]]**.
@@ -37,7 +46,7 @@ zuletzt-aktualisiert: 2026-10-07
 
 ## Offene Punkte
 
-- Offizieller Name (aktuell Arbeitstitel), Grund für die Lage des Hauptquartiers nahe am Malstrom, Anführer, Expeditionen, was sie dort erforscht.
+- Offizieller Name (aktuell Arbeitstitel), Grund für die Lage des Hauptquartiers nahe am Malstrom, Name der Forschungsbasis-Stadt, Anführer, Expeditionen, was sie dort erforschen.
 
 ## Verbindungen
 
@@ -57,5 +66,6 @@ zuletzt-aktualisiert: 2026-10-07
 ## Quellen
 
 - Alex, Chat 2026-10-07 (Fraktionsvorstellung; offene Wissenskultur und Rivalität mit dem Orden des Weaves)
+- Alex, Chat 2026-10-14/15 (Forschungsbasis: 150 Jahre Basisebau, Gnom-Geduld, Stadt mit Hafenbecken; Idee I-002)
 
 *Siehe auch: W-001 in [offene-widersprueche.md](../wip/offene-widersprueche.md) (gelöst) – betrifft das Malstrom-Monopol.*

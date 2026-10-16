@@ -3,7 +3,7 @@ titel: Königreich Lantanien
 kategorie: Fraktion
 tags: [reich, kolonialmacht, staat]
 status: kanon
-zuletzt-aktualisiert: 2026-10-07
+zuletzt-aktualisiert: 2026-10-16
 ---
 
 # Königreich Lantanien
@@ -23,6 +23,13 @@ zuletzt-aktualisiert: 2026-10-07
 ### Struktur & Anführer
 - Kolonialmacht mit Stützpunkten/Forts in der Zerrissenen See (Details offen).
 - Anführer und innere Struktur noch nicht konkretisiert.
+
+### Ursprung der Kolonialisierung
+- Der Seeweg **entlang der Zerrissenen See** war für Lantanien eine **wichtige Handelsroute**.
+- Allerdings **wimmelte es dort stets von Seeräubern**, was das Reisen gefährlich machte. Neben den Piraten waren möglicherweise auch **Seeungeheuer** ein Problem.
+- Schließlich beschloss Lantanien, dort **Marine-Stützpunkte zu errichten**, um die Gegend zu sichern.
+- **Zeitliche Einordnung (grobe Orientierung):** Die Kolonialisierung begann etwa **10–15 Jahre vor Spielstart**. Die genaue Zeitspanne ist noch offen.
+- Das erhöht auch das **Konfliktpotential mit [[Reich Vescaro]]**: Die Vescarer haben es vermutlich nicht gut aufgefasst, dass **militärische Forts vor ihrer Haustür** gebaut wurden.
 
 ### Verbündete / Rivalitäten
 - **Heftige Rivalität mit [[Reich Vescaro]]** (kein offener Krieg, da Vescaro sich unterlegen weiß) → siehe auch [[Rivalität Lantanien–Vescaro]].
@@ -51,6 +58,8 @@ zuletzt-aktualisiert: 2026-10-07
 ## Quellen
 
 - Alex, Chat 2026-10-07 (Fraktionsvorstellung)
+- Alex, Chat 2026-10-15 (Ursprungsgeschichte der ersten Kolonie; Idee I-001)
+- Alex, Chat 2026-10-16 (grobe Zeitliche Einordnung: Kolonialisierung ca. 10–15 Jahre vor Spielstart)
 
 ## Ideen
 
