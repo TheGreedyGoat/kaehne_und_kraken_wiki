@@ -1,0 +1,20 @@
+{
+  "id": "nach-d-3r82rwxt",
+  "calendarId": "new-calendar",
+  "title": "Nach den Feen",
+  "date": {
+    "year": 3,
+    "monthIndex": 0,
+    "day": 1
+  },
+  "color": "#4a8af2",
+  "tagRefs": [],
+  "createdAt": "2026-10-16T15:08:19.491Z",
+  "recurrence": {
+    "kind": "interval",
+    "frequency": "yearly",
+    "interval": 6,
+    "endMode": "never"
+  },
+  "updatedAt": "2026-10-16T15:08:19.491Z"
+}

@@ -1,16 +1,281 @@
 {
   "autoParse": false,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Weltkalender",
+      "description": "",
+      "id": "ID_3afa58ba5aaa",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Thromach (Balance)",
+            "id": "ID_0a785b9a185b"
+          },
+          {
+            "type": "day",
+            "name": "Astar (distanzieren)",
+            "id": "ID_a9abb8090a1b"
+          },
+          {
+            "type": "day",
+            "name": "Glacadh (fangen)",
+            "id": "ID_b80bd9aaba98"
+          },
+          {
+            "type": "day",
+            "name": "Ceannas (dominieren)",
+            "id": "ID_bb8858d8db19"
+          },
+          {
+            "type": "day",
+            "name": "Theanas (begnadigen)",
+            "id": "ID_5b89c94909db"
+          },
+          {
+            "type": "day",
+            "name": "Obrach (annähern)",
+            "id": "ID_9a797a597b9b"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "1",
+            "length": 30,
+            "id": "ID_0b58e9688899",
+            "interval": 0,
+            "offset": 0
+          },
+          {
+            "type": "intercalary",
+            "name": "2",
+            "length": 30,
+            "id": "ID_baaad88898aa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "3",
+            "length": 30,
+            "id": "ID_39fa1b98794b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "4",
+            "length": 30,
+            "id": "ID_dbba5a0828f9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "5",
+            "length": 30,
+            "id": "ID_29c8db098a3b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "6",
+            "length": 30,
+            "id": "ID_b8a82a0a291a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "7",
+            "length": 30,
+            "id": "ID_ab4819cb2a48",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "8",
+            "length": 30,
+            "id": "ID_daaaab39d9ba",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "9",
+            "length": 30,
+            "id": "ID_5b8ba86bbb7b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "10",
+            "length": 30,
+            "id": "ID_7a487a980aea",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "11",
+            "length": 30,
+            "id": "ID_fba80a699a9b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "12",
+            "length": 30,
+            "id": "ID_0a4af9d8796a",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "light",
+            "cycle": 30,
+            "offset": 0,
+            "faceColor": "#fff",
+            "shadowColor": "#000",
+            "id": "ID_29ba8baa1afa"
+          },
+          {
+            "name": "dark",
+            "cycle": 30,
+            "offset": 0,
+            "faceColor": "#0f005c",
+            "shadowColor": "#000000",
+            "id": "ID_da7b89e9084b"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2,
+        "years": [],
+        "useCustomYears": false
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_da29d94b19fb",
+            "name": "Nach den Schatten",
+            "color": "#3f20d9",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 360,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_f8584a085aca",
+            "name": "Vor den Feen",
+            "color": "#ae78b5",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 360,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_19693b8bd8ea",
+            "name": "Feensommer",
+            "color": "#00ff9d",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 360,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_5a9aa9f8fa9b",
+            "name": "Nach den Feen",
+            "type": "Periodic",
+            "color": "#0cc93b",
+            "duration": 360,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_eac91b7b1a0b",
+            "name": "Vor den Schatten",
+            "type": "Periodic",
+            "color": "#3d9ece",
+            "duration": 360,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_59c89879ebca",
+            "name": "Grauwinter",
+            "type": "Periodic",
+            "color": "#753cd1",
+            "duration": 360,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -1119454043,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 1,
+        "month": 0,
+        "year": 1
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD-MM-YYYY"
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_3afa58ba5aaa",
   "eventPreview": false,
   "exit": {
-    "saving": false,
-    "event": false,
-    "calendar": false,
-    "savingEvent": false
+    "saving": true,
+    "event": true,
+    "calendar": true,
+    "savingEvent": true
   },
   "eventFrontmatter": false,
   "parseDates": false,
@@ -22,13 +287,13 @@
   },
   "debug": false,
   "askedToMoveFC": false,
-  "askedAboutSync": false,
-  "syncBehavior": "Ask",
+  "askedAboutSync": true,
+  "syncBehavior": "Always",
   "inlineEventsTag": null,
   "paths": [
     [
       "/",
-      "DEFAULT"
+      "ID_3afa58ba5aaa"
     ]
   ]
 }

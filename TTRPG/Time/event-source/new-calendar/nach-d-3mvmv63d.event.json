@@ -1,0 +1,20 @@
+{
+  "id": "nach-d-3mvmv63d",
+  "calendarId": "new-calendar",
+  "title": "Nach den Schatten",
+  "date": {
+    "year": 0,
+    "monthIndex": 0,
+    "day": 1
+  },
+  "color": "#4e3e3e",
+  "tagRefs": [],
+  "createdAt": "2026-10-16T15:04:56.743Z",
+  "recurrence": {
+    "kind": "interval",
+    "frequency": "yearly",
+    "interval": 6,
+    "endMode": "never"
+  },
+  "updatedAt": "2026-10-16T15:04:56.743Z"
+}

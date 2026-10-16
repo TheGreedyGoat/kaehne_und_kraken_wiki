@@ -1,0 +1,9 @@
+{
+  "id": "ttrpg-tools-time",
+  "name": "TTRPG Tools - Time",
+  "version": "1.0.0",
+  "minAppVersion": "1.13.0",
+  "description": "Fantasy calendar with timeline view.",
+  "author": "Jareika",
+  "isDesktopOnly": false
+}

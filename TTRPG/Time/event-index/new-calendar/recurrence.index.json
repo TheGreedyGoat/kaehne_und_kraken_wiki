@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "kind": "event-recurrence-index",
+  "calendarId": "new-calendar",
+  "items": [
+    {
+      "id": "nach-d-3mvmv63d",
+      "title": "Nach den Schatten",
+      "color": "#4e3e3e",
+      "date": {
+        "year": 0,
+        "monthIndex": 0,
+        "day": 1
+      },
+      "recurrence": {
+        "kind": "interval",
+        "frequency": "yearly",
+        "interval": 6,
+        "endMode": "never"
+      },
+      "updatedAt": "2026-10-16T15:04:56.743Z"
+    },
+    {
+      "id": "vor-de-3osbknpw",
+      "title": "Vor den Feen",
+      "color": "#07b67c",
+      "date": {
+        "year": 1,
+        "monthIndex": 0,
+        "day": 1
+      },
+      "recurrence": {
+        "kind": "interval",
+        "frequency": "yearly",
+        "interval": 6,
+        "endMode": "never"
+      },
+      "updatedAt": "2026-10-16T15:07:04.058Z"
+    },
+    {
+      "id": "feenso-3qh6z3jm",
+      "title": "Feensommer",
+      "color": "#00e038",
+      "date": {
+        "year": 2,
+        "monthIndex": 0,
+        "day": 1
+      },
+      "recurrence": {
+        "kind": "interval",
+        "frequency": "yearly",
+        "interval": 6,
+        "endMode": "never"
+      },
+      "updatedAt": "2026-10-16T15:07:44.651Z"
+    },
+    {
+      "id": "nach-d-3r82rwxt",
+      "title": "Nach den Feen",
+      "color": "#4a8af2",
+      "date": {
+        "year": 3,
+        "monthIndex": 0,
+        "day": 1
+      },
+      "recurrence": {
+        "kind": "interval",
+        "frequency": "yearly",
+        "interval": 6,
+        "endMode": "never"
+      },
+      "updatedAt": "2026-10-16T15:08:19.491Z"
+    },
+    {
+      "id": "vor-de-3s3utsa1",
+      "title": "Vor den Schatten",
+      "color": "#41344b",
+      "date": {
+        "year": 4,
+        "monthIndex": 0,
+        "day": 1
+      },
+      "recurrence": {
+        "kind": "interval",
+        "frequency": "yearly",
+        "interval": 6,
+        "endMode": "never"
+      },
+      "updatedAt": "2026-10-16T15:09:00.677Z"
+    },
+    {
+      "id": "grauwi-3spoeftt",
+      "title": "Grauwinter",
+      "color": "#5e5e5e",
+      "date": {
+        "year": 5,
+        "monthIndex": 0,
+        "day": 1
+      },
+      "recurrence": {
+        "kind": "interval",
+        "frequency": "yearly",
+        "interval": 6,
+        "endMode": "never"
+      },
+      "updatedAt": "2026-10-16T15:10:24.071Z"
+    }
+  ]
+}

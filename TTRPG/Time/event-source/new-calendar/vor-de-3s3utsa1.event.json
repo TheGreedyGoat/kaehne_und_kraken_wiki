@@ -1,0 +1,20 @@
+{
+  "id": "vor-de-3s3utsa1",
+  "calendarId": "new-calendar",
+  "title": "Vor den Schatten",
+  "date": {
+    "year": 4,
+    "monthIndex": 0,
+    "day": 1
+  },
+  "color": "#41344b",
+  "tagRefs": [],
+  "createdAt": "2026-10-16T15:09:00.677Z",
+  "recurrence": {
+    "kind": "interval",
+    "frequency": "yearly",
+    "interval": 6,
+    "endMode": "never"
+  },
+  "updatedAt": "2026-10-16T15:09:00.677Z"
+}

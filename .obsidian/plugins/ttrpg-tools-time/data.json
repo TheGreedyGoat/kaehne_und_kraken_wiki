@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "dataFolder": "TTRPG/Time",
+    "activeCalendarId": "new-calendar",
+    "dayViewDateFormat": "D-M-YYYY",
+    "showCalendarWeekNumbers": false,
+    "temperatureUnit": "c",
+    "controlTimeButtons": [],
+    "communityLibraryIndexUrl": "https://jareika.github.io/ttrpg-tools-time-library/index.json",
+    "frontmatterImport": {
+      "enabled": false,
+      "fallbackTitleToFilename": true,
+      "colorMappings": []
+    },
+    "frontmatterExport": {
+      "enabled": false,
+      "clearMissingFields": true
+    }
+  },
+  "fantasyClock": {
+    "byCalendarId": {}
+  }
+}

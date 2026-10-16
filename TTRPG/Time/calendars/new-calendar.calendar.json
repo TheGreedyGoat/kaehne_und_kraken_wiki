@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "kind": "calendar",
+  "id": "new-calendar",
+  "name": "Elven calendar",
+  "definition": {
+    "id": "new-calendar",
+    "name": "Elven calendar",
+    "eraLabel": "ERA",
+    "weekdays": [
+      "Thromach (Balance)",
+      "Astar (distanzieren)",
+      "Glacadh (fangen)",
+      "Ceannas (dominieren)",
+      "Theanas (begnadigen)",
+      "Obrach (annähern)"
+    ],
+    "months": [
+      {
+        "id": "month-1",
+        "name": "Month 1",
+        "days": 30
+      },
+      {
+        "id": "month-2",
+        "name": "Month 2",
+        "days": 30
+      },
+      {
+        "id": "month-3",
+        "name": "Month 3",
+        "days": 30
+      },
+      {
+        "id": "month-4",
+        "name": "Month 4",
+        "days": 30
+      },
+      {
+        "id": "month-5",
+        "name": "Month 5",
+        "days": 30
+      },
+      {
+        "id": "month-6",
+        "name": "Month 6",
+        "days": 30
+      },
+      {
+        "id": "month-7",
+        "name": "Month 7",
+        "days": 30
+      },
+      {
+        "id": "month-8",
+        "name": "Month 8",
+        "days": 30
+      },
+      {
+        "id": "month-9",
+        "name": "Month 9",
+        "days": 30
+      },
+      {
+        "id": "month-10",
+        "name": "Month 10",
+        "days": 30
+      },
+      {
+        "id": "month-11",
+        "name": "Month 11",
+        "days": 30
+      },
+      {
+        "id": "month-12",
+        "name": "Month 12",
+        "days": 30
+      }
+    ],
+    "leapMonths": [],
+    "leapDays": [],
+    "intercalaryDays": [],
+    "weatherProfile": {
+      "mode": "calendar",
+      "climateYearLength": 360,
+      "baseOffsetDays": 0,
+      "cycleReset": "intercalation-cycle"
+    },
+    "eras": [
+      {
+        "id": "era",
+        "name": "Era 1",
+        "shortName": "ERA",
+        "startYear": 0,
+        "startMonthIndex": 0,
+        "startDay": 1
+      }
+    ],
+    "moons": [
+      {
+        "id": "solas",
+        "name": "Solas",
+        "cycleDays": 30,
+        "offsetDays": 0,
+        "cycleAnchor": "absolute",
+        "color": "#d1ae00",
+        "phaseCount": 8,
+        "size": 28,
+        "phaseImages": [],
+        "phaseLabels": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "id": "sgail",
+        "name": "Sgàil",
+        "cycleDays": 30,
+        "offsetDays": 0,
+        "cycleAnchor": "absolute",
+        "color": "#2a0561",
+        "phaseCount": 8,
+        "size": 28,
+        "phaseImages": [],
+        "phaseLabels": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ],
+    "yearNames": [],
+    "namedWeeks": [],
+    "monthWeekdayMode": "continuous",
+    "startWeekdayIndex": 0,
+    "yearDisplay": {
+      "negativeYearsMode": "signed",
+      "largeYearFormat": "plain",
+      "eraYearMode": "absolute"
+    },
+    "seasons": [
+      {
+        "id": "spring",
+        "name": "Spring",
+        "startDay": 1,
+        "endDay": 90,
+        "color": "#a7d36d"
+      },
+      {
+        "id": "summer",
+        "name": "Summer",
+        "startDay": 91,
+        "endDay": 180,
+        "color": "#e2b35d"
+      },
+      {
+        "id": "autumn",
+        "name": "Autumn",
+        "startDay": 181,
+        "endDay": 270,
+        "color": "#d98859"
+      },
+      {
+        "id": "winter",
+        "name": "Winter",
+        "startDay": 271,
+        "endDay": 360,
+        "color": "#7fa8d8"
+      }
+    ],
+    "time": {
+      "enabled": false,
+      "hoursPerDay": 24,
+      "minutesPerHour": 60
+    }
+  },
+  "state": {
+    "activeView": "year",
+    "todayDate": {
+      "year": 1166,
+      "monthIndex": 0,
+      "day": 1
+    },
+    "cursorDate": {
+      "year": 1184,
+      "monthIndex": 0,
+      "day": 1
+    },
+    "showEraDescription": false
+  },
+  "linkedTagPackIds": [],
+  "linkedCalendarIds": [],
+  "linkedWeatherPackIds": [
+    "general"
+  ],
+  "weatherEnabled": true,
+  "frontmatterImportValues": [],
+  "defaultWeatherPackId": "general",
+  "autoGenerateLinkedWeatherReferences": false,
+  "markers": []
+}
