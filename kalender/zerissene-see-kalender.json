@@ -1,0 +1,64 @@
+{
+  "name": "Zerrissene See – Zeitrechnung",
+  "static_data": {
+    "year_data": {
+      "first_day": 1,
+      "overflow": true,
+      "global_week": ["Thromachadh", "Astar", "Glacadh", "Ceannas", "Theanas", "Obrach"],
+      "timespans": [
+        { "name": "1. Monat", "type": "month", "length": 30, "interval": 1, "offset": 0 },
+        { "name": "2. Monat", "type": "month", "length": 30, "interval": 1, "offset": 0 },
+        { "name": "3. Monat", "type": "month", "length": 30, "interval": 1, "offset": 0 },
+        { "name": "4. Monat", "type": "month", "length": 30, "interval": 1, "offset": 0 },
+        { "name": "5. Monat", "type": "month", "length": 30, "interval": 1, "offset": 0 },
+        { "name": "6. Monat", "type": "month", "length": 30, "interval": 1, "offset": 0 },
+        { "name": "7. Monat", "type": "month", "length": 30, "interval": 1, "offset": 0 },
+        { "name": "8. Monat", "type": "month", "length": 30, "interval": 1, "offset": 0 },
+        { "name": "9. Monat", "type": "month", "length": 30, "interval": 1, "offset": 0 },
+        { "name": "10. Monat", "type": "month", "length": 30, "interval": 1, "offset": 0 },
+        { "name": "11. Monat", "type": "month", "length": 30, "interval": 1, "offset": 0 },
+        { "name": "12. Monat", "type": "month", "length": 30, "interval": 1, "offset": 0 }
+      ],
+      "leap_days": []
+    },
+    "moons": [
+      {
+        "name": "Heller Mond",
+        "cycle": 30,
+        "shift": 0,
+        "granularity": 30,
+        "color": "#f2ecd8",
+        "shadow_color": "#5a5a5a",
+        "hidden": false
+      },
+      {
+        "name": "Dunkler Mond",
+        "cycle": 30,
+        "shift": 0,
+        "granularity": 30,
+        "color": "#b9b2c6",
+        "shadow_color": "#2e2e38",
+        "hidden": false
+      }
+    ],
+    "clock": {
+      "hours": 24,
+      "minutes": 60,
+      "seconds": 60
+    },
+    "eras": []
+  },
+  "dynamic_data": {
+    "year": 5995,
+    "timespan": 0,
+    "day": 1,
+    "epoch": 0,
+    "custom_location": false,
+    "location": "",
+    "current_era": 0,
+    "hour": 0,
+    "minute": 0
+  },
+  "events": [],
+  "categories": []
+}

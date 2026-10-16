@@ -7,6 +7,7 @@ Zentrale Arbeitsdatei des Agenten: Artikel-Index je Kategorie, Konventionen je K
 - **Kanon-Ordner** (nur Artikel mit kanonischem Inhalt): `orte/`, `fraktionen/`, `npcs/`, `geschichte-timeline/`, `weltregeln/`, `sessions/`
 - **`wip/`** – alles Inhaltliche, das noch kein Kanon ist: Agenten-Vorschläge (`status: vorschlag`), offene Ideen/Notizen von Alex (`status: entwurf`), offene Widersprüche (`offene-widersprueche.md`)
 - **`ideen/`** – offene Ideen-Sammlungen von Alex (`status: entwurf`), die keinem Artikel fest zugeordnet sind; werden bei Kanon-Werderung in die passenden Kanon-Artikel überführt
+- **`kalender/`** – Calendarium-Importdatei + Anleitung (Zeitrechnungssystem, Idee I-003); Tool-Ordner, kein Wiki-Inhalt
 - **`_technik/`** – Agenten-Arbeitsdateien und Technik: diese Übersicht, `vorlagen.md`, `obsidian-vault.md`
 - `KNOWLEDGE.md` (Topic-Root) – System-Einstiegspunkt, beschreibt Struktur und Artikel-Konventionen
 
