@@ -100,14 +100,18 @@
       {
         "id": "solas",
         "name": "Solas",
-        "cycleDays": 30,
+        "cycleDays": 12,
         "offsetDays": 0,
         "cycleAnchor": "absolute",
         "color": "#d1ae00",
-        "phaseCount": 8,
+        "phaseCount": 12,
         "size": 28,
         "phaseImages": [],
         "phaseLabels": [
+          "",
+          "",
+          "",
+          "",
           "",
           "",
           "",
@@ -121,10 +125,35 @@
       {
         "id": "sgail",
         "name": "Sgàil",
-        "cycleDays": 30,
-        "offsetDays": 0,
+        "cycleDays": 12,
+        "offsetDays": 6,
         "cycleAnchor": "absolute",
         "color": "#2a0561",
+        "phaseCount": 12,
+        "size": 28,
+        "phaseImages": [],
+        "phaseLabels": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "id": "solassgail",
+        "name": "SolasSgail",
+        "cycleDays": 30,
+        "offsetDays": 16,
+        "cycleAnchor": "absolute",
+        "color": "#d46b65",
         "phaseCount": 8,
         "size": 28,
         "phaseImages": [],
@@ -195,7 +224,7 @@
     "cursorDate": {
       "year": 1184,
       "monthIndex": 0,
-      "day": 1
+      "day": 2
     },
     "showEraDescription": false
   },

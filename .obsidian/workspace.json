@@ -169,34 +169,6 @@
             }
           },
           {
-            "id": "2d10819497fd6819",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_3afa58ba5aaa",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 1
-                  },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_695a786bb9f8"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
             "id": "bb14c559811df95a",
             "type": "leaf",
             "state": {
@@ -227,11 +199,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 971.5
+    "width": 850.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,8 +224,12 @@
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
     }
   },
-  "active": "ef6ae0983ad9012b",
+  "active": "b4bfe0f6be0c450d",
   "lastOpenFiles": [
+    "TTRPG/Time/event-presets",
+    "TTRPG/Time/event-details-legacy-backup",
+    "TTRPG/Time/event-details",
+    "TTRPG/Time/tag-packs",
     "TTRPG/Time/weather-dayview/new-calendar/1184.weather.json",
     "TTRPG/Time/weather-reference/new-calendar/general/1184.reference.json",
     "TTRPG/Time/weather-dayview/new-calendar/1183.weather.json",
@@ -261,10 +237,6 @@
     "TTRPG/Time/weather-dayview/new-calendar/1182.weather.json",
     "TTRPG/Time/weather-reference/new-calendar/general/1182.reference.json",
     "TTRPG/Time/weather-dayview/new-calendar/1181.weather.json",
-    "TTRPG/Time/weather-reference/new-calendar/general/1181.reference.json",
-    "TTRPG/Time/weather-dayview/new-calendar/1180.weather.json",
-    "TTRPG/Time/weather-reference/new-calendar/general/1180.reference.json",
-    "TTRPG/Time/weather-dayview/new-calendar/1179.weather.json",
     "Unbenannt.canvas",
     "kalender/kalender-anleitung.md",
     "fraktionen/Piraterie In Der Zerrissenen See.md",
